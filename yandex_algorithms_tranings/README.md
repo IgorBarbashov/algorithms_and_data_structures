@@ -5,6 +5,9 @@
 - Лекция 2: «Линейный поиск»
   - [Видео](https://www.youtube.com/watch?v=SKwB41FrGgU)
   - [Примеры из лекции](./lecture_02_linear_search/)
-- Лекция 3: Множества
-  - [Видео](httphttps://www.youtube.com/watch?v=PUpmV2ieIHA)
+- Лекция 3: «Множества»
+  - [Видео](https://www.youtube.com/watch?v=PUpmV2ieIHA)
   - [Примеры из лекции](./lecture_03_set_hashtable/)
+- Лекция 4: «Словари и сортировка подсчётом»
+  - [Видео](https://www.youtube.com/watch?v=Nb5mW1yWVSs)
+  - [Примеры из лекции](./lecture_04_dictionary_count_sort/)
