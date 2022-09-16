@@ -5,3 +5,6 @@
 - Лекция 2: «Линейный поиск»
   - [Видео](https://www.youtube.com/watch?v=SKwB41FrGgU)
   - [Примеры из лекции](./lecture_02_linear_search/)
+- Лекция 3: Множества
+  - [Видео](httphttps://www.youtube.com/watch?v=PUpmV2ieIHA)
+  - [Примеры из лекции](./lecture_03_set_hashtable/)
