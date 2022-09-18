@@ -11,3 +11,6 @@
 - Лекция 4: «Словари и сортировка подсчётом»
   - [Видео](https://www.youtube.com/watch?v=Nb5mW1yWVSs)
   - [Примеры из лекции](./lecture_04_dictionary_count_sort/)
+- Разбор домашнего задания по лекции 1 и 2
+  - [Видео](https://www.youtube.com/watch?v=mdJdB7On4AM)
+  - [Примеры из лекции](./lecture_05_homework_1_2_review/)
